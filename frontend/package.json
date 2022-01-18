@@ -17,7 +17,7 @@
     "zipkin-instrumentation-cujojs-rest": "^0.11.1",
     "zipkin-instrumentation-express": "^0.11.1",
     "zipkin-instrumentation-fetch": "^0.11.1",
-    "zipkin-transport-http": "^0.11.1"
+    "zipkin-transport-http": "^0.16.0"
   },
   "devDependencies": {
     "browserify": "^14.1.0",
